@@ -3,24 +3,7 @@
 ## Description
 This project focuses on modeling the distribution of Aloe species in the Baringo region using geospatial and environmental data. The goal is to predict the potential habitats of Aloe species based on various environmental factors such as climate, soil, and topography.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Sources](#data-sources)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
-## Installation
-To set up the project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Simonkipkurui/Aloe-speceis-distribution-modelling-Baringo.git
-   cd Aloe-speceis-distribution-modelling-Baringo
-   Data Sources
 The following data sources were used in this project:
 
 Climate Data: CHELSA

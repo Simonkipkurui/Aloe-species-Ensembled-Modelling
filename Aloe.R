@@ -6,6 +6,7 @@ library(sp)# Spatial data classes
 library(corrplot)##plooting
 library(gbm)####Gradient boost machine alogorithm
 library(xgboost)
+library(ggcorrplot)
 library(randomForest)#####random forest alogorithm 
 library(dplyr)#####data manupulation
 library(data.table)###reading csv data 

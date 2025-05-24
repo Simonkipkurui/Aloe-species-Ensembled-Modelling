@@ -1,7 +1,7 @@
-# Aloe Species Distribution Modelling in Baringo
+# Aloe Species Distribution Modelling in Arid and Semi-Arid Lands 
 
 ## Description
-This project focuses on modeling the distribution of Aloe species in the Baringo region using machine learning alogorithms Random forest,Gradinent boost machine and Extreme gradient boosting and environmental data. The goal is to predict the potential habitats of Aloe species based on various environmental factors such as climate, soil, and topography.
+This project focuses on modeling the distribution of Aloe species in the arid and Semi-Arid northern  kenya region using machine learning alogorithms Random forest,Gradinent boost machine and Extreme gradient boosting. The goal is to predict the potential habitats of Aloe species based on various environmental factors such as climate, soil, topography and climate scenarios data .
 
 The following data sources were used in this project:
 Climate Data: CHELSA
@@ -15,6 +15,4 @@ Data Preprocessing: Clean and prepare the data for analysis.
 Modeling: Use a species distribution model Random forest ,Gradient boost machine , Extreme gradient boosting and Ensembled modelling  to predict habitat suitability.
 Validation: Validate the model using  K- fold cross-validation and independent test data.
 Visualization: Generate maps and visualizations of the predicted distributions.
-Contributing
-Contributions are welcome! If you'd like to contribute, please follow these steps:
 
